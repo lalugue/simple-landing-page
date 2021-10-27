@@ -1,0 +1,8 @@
+.LightCard {
+    width: 100%;  
+}
+
+.DarkCard{
+    width: 100%;
+    background-color: rgb(245, 245, 245);    
+}
