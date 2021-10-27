@@ -1,6 +1,8 @@
+import "./Header.css"
+
 function Header(props) {
   return (
-    <div>
+    <div className="Header">
       <h1>
         {props.text}
       </h1>
