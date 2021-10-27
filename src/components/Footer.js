@@ -1,7 +1,9 @@
+import "./Footer.css";
+
 function Footer() {
   return (
-    <div>
-      Footer
+    <div className="Footer">
+      💻: <a href="https://github.com/lalugue">lalugue</a>
     </div>
   );
 }
