@@ -10,9 +10,9 @@ function App() {
   return (
     <div className="App">
       <Header text="Hello World!" subtext="lorem ipsum"/>
-      <Card text="Lorem" subtext={text}/>
-      <Card text="Ipsum" subtext={text}/>
-      <Card text="Dolor" subtext={text}/>
+      <Card text="Lorem" subtext={text} classProp="LightCard"/>
+      <Card text="Ipsum" subtext={text} classProp="DarkCard"/>
+      <Card text="Dolor" subtext={text} classProp="LightCard"/>
       <Footer/>
     </div>
   );
