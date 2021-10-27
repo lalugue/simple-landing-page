@@ -10,9 +10,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### yarn prettier --write .
+### `yarn prettier --write .`
 
 Uses [Prettier](https://prettier.io/docs/en/install.html) to format files.
+
+### `yarn run deploy`
+
+Uses `gh-pages` to deploy landing page with Github Pages (Reference: [Create React App - Deployment - Github Pages](https://create-react-app.dev/docs/deployment/#github-pages)).
 
 ### `yarn start`
 
