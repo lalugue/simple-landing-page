@@ -1,3 +1,12 @@
+# Simple Landing Page
+
+A small landing page prototype 💡
+
+# npx prettier --write .
+
+Uses [Prettier](https://prettier.io/docs/en/install.html) to format files.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
