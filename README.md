@@ -2,11 +2,6 @@
 
 A small landing page prototype 💡
 
-# npx prettier --write .
-
-Uses [Prettier](https://prettier.io/docs/en/install.html) to format files.
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -14,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### yarn prettier --write .
+
+Uses [Prettier](https://prettier.io/docs/en/install.html) to format files.
 
 ### `yarn start`
 
